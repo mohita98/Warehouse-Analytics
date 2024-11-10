@@ -73,3 +73,9 @@ This dashboard provides real-time insights into four critical aspects of warehou
 - Advanced anomaly detection
 - Mobile-friendly dashboard views
 - Automated reporting capabilities
+
+# 🔍 Explore My Work 
+![Screenshot 2024-11-10 185834](https://github.com/user-attachments/assets/e2fad56a-1977-4a8c-8493-053b77ca3adf)
+![Screenshot 2024-11-10 190238](https://github.com/user-attachments/assets/75538879-fa03-4fc8-ad47-3d678ebd4db0)
+![Screenshot 2024-11-10 190258](https://github.com/user-attachments/assets/2063b880-b50a-49af-b024-7c31b034e499)
+![Screenshot 2024-11-10 190322](https://github.com/user-attachments/assets/ef46bea5-284f-4b67-94c5-360afbdbc07f)
